@@ -1,5 +1,5 @@
 # Camada de enlace – SLIP
-
+ 
 Nesta prática, vamos implementar o SLIP, um protocolo de camada de enlace muito simples que funciona sobre linhas seriais. O SLIP é definido pela [RFC 1055](https://tools.ietf.org/html/rfc1055), que tem apenas 6 páginas (e isso incluindo exemplos de código em C)!
 
 Sua implementação deve ser realizada no arquivo `slip.py`, que já veio com um esqueleto em cima do qual você vai construir o seu código.
